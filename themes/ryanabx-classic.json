@@ -7,9 +7,15 @@
 		"titleBar.inactiveBackground": "#e0ecf4",
 		"statusBar.background": "#e0ecf4",
 		"statusBar.foreground": "#000000",
-		"statusBarItem.hoverBackground": "#f1f9ff",
-		"statusBarItem.remoteForeground": "#000000",
+		"statusBar.offlineBackground": "#e0ecf4",
+		"statusBar.offlineForeground": "#000000",
+		"statusBar.noFolderBackground": "#e0ecf4",
+		"statusBar.noFolderForeground": "#000000",
+		"statusBar.debuggingBackground": "#e0ecf4",
+		"statusBar.debuggingForeground": "#000000",
 		"statusBarItem.remoteBackground": "#e0ecf4",
+		"statusBarItem.remoteForeground": "#000000",
+		"statusBarItem.hoverBackground": "#ffffff",
 		"tab.inactiveBackground": "#d1e1f8",
 		"tab.activeBackground": "#ffffff",
 		"tab.hoverBackground": "#ffffff",
@@ -121,7 +127,18 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#005032"
+				"foreground": "#005032",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Library Classes",
+			"scope": [
+				"support.class.library"
+			],
+			"settings": {
+				"foreground": "#7f0055",
+				"fontStyle": "bold"
 			}
 		},
 		{

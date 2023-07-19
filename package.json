@@ -1,9 +1,9 @@
 {
   "name": "ryanabx-classic",
-  "displayName": "Ryanabx Classic Theme",
+  "displayName": "Ryanabx Classic Light Theme",
   "publisher": "ryanabx",
-  "description": "Classic theme based on older IDEs",
-  "version": "0.0.1",
+  "description": "Light theme with inspiration from older C/C++ IDEs",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.80.0"
   },
@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "ryanabx-classic",
+        "label": "Ryanabx Classic Light",
         "uiTheme": "vs",
         "path": "./themes/ryanabx-classic.json"
       }
