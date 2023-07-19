@@ -1,0 +1,198 @@
+{
+	"name": "ryanabx-classic",
+	"colors": {
+		"activityBar.background": "#ffffff",
+		"activityBar.foreground": "#000000",
+		"titleBar.activeBackground": "#e0ecf4",
+		"titleBar.inactiveBackground": "#e0ecf4",
+		"statusBar.background": "#e0ecf4",
+		"statusBar.foreground": "#000000",
+		"statusBarItem.hoverBackground": "#f1f9ff",
+		"statusBarItem.remoteForeground": "#000000",
+		"statusBarItem.remoteBackground": "#e0ecf4",
+		"tab.inactiveBackground": "#d1e1f8",
+		"tab.activeBackground": "#ffffff",
+		"tab.hoverBackground": "#ffffff",
+		"tab.border": "#d1e1f8",
+		"foreground": "#000000",
+		"panel.background": "#ffffff",
+		"sideBar.background": "#ffffff",
+		"focusBorder": "#000000",
+		"editor.background": "#ffffff",
+		"editor.foreground": "#000000",
+		"editorBracketHighlight.foreground1": "#000000",
+		"editorBracketHighlight.foreground2": "#000000",
+		"editorBracketHighlight.foreground3": "#000000",
+		"editorBracketHighlight.foreground4": "#000000",
+		"editorBracketHighlight.foreground5": "#000000",
+		"editorBracketHighlight.foreground6": "#000000",
+		"editorLineNumber.foreground": "#cacaca",
+		"editorLineNumber.activeForeground": "#868686"
+	},
+	"tokenColors": [
+		{
+			"name": "Comments",
+			"scope": [
+				"comment",
+				"punctuation.definition.comment"
+			],
+			"settings": {
+				"foreground": "#3f7f5f"
+			}
+		},
+		{
+			"name": "Operators",
+			"scope": ["keyword.operator", "storage.modifier", "keyword.other"],
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": ""
+			}
+		},
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword",
+				"storage"
+			],
+			"settings": {
+				"foreground": "#7f0055",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Types",
+			"scope": [
+				"storage.type",
+				"support.type"
+			],
+			"settings": {
+				"foreground": "#7f0055",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Language Constants",
+			"scope": [
+				"constant.language",
+				"support.constant",
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "#7f0055",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable",
+				"support.variable"
+			],
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"entity.name.function", "entity.name.scope-resolution.function.definition"
+			],
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Function Definition",
+			"scope": [
+				"entity.name.function.definition",
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Classes",
+			"scope": [
+				"entity.name.type",
+				"entity.other.inherited-class",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#005032"
+			}
+		},
+		{
+			"name": "Properties",
+			"scope": [
+				"variable.other.property"
+			],
+			"settings": {
+				"foreground": "#0000c0"
+			}
+		},
+		{
+			"name": "Exceptions",
+			"scope": "entity.name.exception",
+			"settings": {
+				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Sections",
+			"scope": "entity.name.section",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Numbers, Characters",
+			"scope": [
+				"constant.numeric",
+				"constant.character",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#000000"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": "string",
+			"settings": {
+				"foreground": "#2b00ff"
+			}
+		},
+		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#777777"
+			}
+		},
+		{
+			"name": "Strings: Regular Expressions",
+			"scope": "string.regexp",
+			"settings": {
+				"foreground": "#4B83CD"
+			}
+		},
+		{
+			"name": "Strings: Symbols",
+			"scope": "constant.other.symbol",
+			"settings": {
+				"foreground": "#AB6526"
+			}
+		},
+		{
+			"name": "Punctuation",
+			"scope": "punctuation",
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": ""
+			}
+		}
+	]
+}
