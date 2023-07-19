@@ -81,7 +81,8 @@
 			"scope": [
 				"constant.language",
 				"support.constant",
-				"variable.language"
+				"variable.language",
+				"entity.name.function.decorator"
 			],
 			"settings": {
 				"foreground": "#7f0055",
@@ -127,8 +128,7 @@
 				"support.class"
 			],
 			"settings": {
-				"foreground": "#005032",
-				"fontStyle": "bold"
+				"foreground": "#007d4e"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			"name": "Exceptions",
 			"scope": "entity.name.exception",
 			"settings": {
-				"foreground": "#660000"
+				"foreground": "#4f1919"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#777777"
+				"foreground": "#1c00ab"
 			}
 		},
 		{
@@ -200,7 +200,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#376199"
 			}
 		},
 		{

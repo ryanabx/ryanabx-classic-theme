@@ -3,7 +3,7 @@
   "displayName": "Ryanabx Classic Light Theme",
   "publisher": "ryanabx",
   "description": "Light theme with inspiration from older C/C++ IDEs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.80.0"
   },
