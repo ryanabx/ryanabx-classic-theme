@@ -1,6 +1,7 @@
 {
   "name": "ryanabx-classic",
-  "displayName": "Ryanabx Clasic Theme",
+  "displayName": "Ryanabx Classic Theme",
+  "publisher": "ryanabx",
   "description": "Classic theme based on older IDEs",
   "version": "0.0.1",
   "engines": {
@@ -17,5 +18,9 @@
         "path": "./themes/ryanabx-classic.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryanabx/ryanabx-classic-theme.git"
   }
 }
