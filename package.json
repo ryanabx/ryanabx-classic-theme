@@ -2,8 +2,8 @@
   "name": "ryanabx-classic",
   "displayName": "Ryanabx Classic Light Theme",
   "publisher": "ryanabx",
-  "description": "Light theme with inspiration from older C/C++ IDEs",
-  "version": "0.0.4",
+  "description": "Light theme designed with the spirit of classic IDEs",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.80.0"
   },
