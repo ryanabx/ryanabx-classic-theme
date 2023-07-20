@@ -7,3 +7,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+- 0.0.8:
+
+    * Fixed a bug where certain keywords were not activating the keyword token.
+
+    * Fixed a bug where JSON keys were not seen as a type.

@@ -78,7 +78,8 @@
 			"scope": [
 				"keyword.control",
 				"storage.type",
-				"punctuation.definition.directive"
+				"punctuation.definition.directive",
+				"keyword.language"
 			],
 			"settings": {
 				"foreground": "#7f0055",
@@ -133,7 +134,8 @@
 			"scope": [
 				"entity.name.type",
 				"entity.other.inherited-class",
-				"support.class"
+				"support.class",
+				"support.type"
 			],
 			"settings": {
 				"foreground": "#007d4e",
